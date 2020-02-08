@@ -14,6 +14,8 @@ smoke        :-whether patient smokes or not
 alco         :-Binary feature
 active       :-Binary feature
 cardio       :-Target variable
+
+
 here i am using Random Forest algorithm to predict whether a person has cardio disease or not
 
 
