@@ -1,18 +1,46 @@
 # ML-Project-using-RandomForest
 dataset consists of 70000 rows and 13 columns
+
+
 Columns(features)
+
+
 id           :-ID number
+
+
 age          :-in days
+
+
 gender       :- 1 - women, 2 - men
+
+
 height       :-cm
+
+
 weight       :-kg
+
+
 ap_hi        :-Systolic blood pressure
+
+
 ap_lo        :-Diastolic blood pressure
+
+
 cholesterol  :- 1: normal, 2: above normal, 3: well above normal
+
+
 gluc         :- 1:normal, 2: above normal, 3: well above normal
+
+
 smoke        :-whether patient smokes or not
+
+
 alco         :-Binary feature
+
+
 active       :-Binary feature
+
+
 cardio       :-Target variable
 
 
